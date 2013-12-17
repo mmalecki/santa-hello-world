@@ -1,0 +1,8 @@
+{
+  "name": "santa-hello-world",
+  "version": "0.0.0",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "dependencies": {
+    "express": "~3.4.7"
+  }
+}
